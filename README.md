@@ -1,6 +1,6 @@
 # Movie Land App from React JS Full Course 2022 | Javascrip Mastery 
 
-live url : 
+live url : https://resilient-bienenstitch-7564ae.netlify.app/
 
 ## Available Scripts
 
